@@ -1,0 +1,4 @@
+Enter your height and weight, and click "Calculate BMI" to see your BMI and BMI Category.
+Click "Learn More" at the botton right hand corner to learn more about BMI.
+Click "Managing BMI" at the bottom right hand corner of the second page to learn about healthy habits to manage BMI. 
+Click "Go Back" at any point in time to return to the previous page.
