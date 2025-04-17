@@ -11,7 +11,7 @@ The user does not need to provide their height and weight to use the program and
 
 - User Class: Represents a person with a height and weight. This class has getter and setter mehods for both of those user attributes.
 - BMICalculator: This class is resposible for two methods; calculating the BMI and the BMI Category based on the input derived from the User Object.
-- App Class: This class uses the data from the BMICalculator Class to return 
+- App Class: This class uses the data from the BMICalculator Class to return a BMI and BMI Category in the graphic user interface, and implements methods to open a second and third window for the user to learn more information. 
 
 ## How to Use
 
