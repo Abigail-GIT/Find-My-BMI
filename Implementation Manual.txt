@@ -1,2 +1,0 @@
-Assure that you have Java downloaded on your device. 
-Run the program from the App.java file. 
