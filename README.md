@@ -15,4 +15,7 @@ The user does not need to provide their height and weight to use the program and
 
 ## How to Use
 
-In order to run the program, verify that Java is installed on your device. The user must run the application on the App.java file. 
+In order to run the program, verify that Java is installed on your device. The user must run the application on the App.java file.
+
+##Presentation
+https://www.canva.com/design/DAGk0P1l3-k/ScNlr8Sc3h7Lqj9PIIqzDg/edit?utm_content=DAGk0P1l3-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
